@@ -3,10 +3,7 @@
 
 ## Overview
 
-FilmFolio is a web application that enables users to search for movies, view detailed information, and explore various films.
- Users can enter search queries by title or keywords, with the app connecting to an external API to fetch matching results. It supports
- genre selection and sorting options by popularity and rating. Users can access comprehensive details, including the
- title, release year, cast, writers, plot, and IMDb rating for any movie.
+FilmFolio is a web application that enables users to search for movies, view detailed information, and explore various films. Users can enter search queries by title or keywords, with the app connecting to an external API to fetch matching results. It supports genre selection and sorting options by popularity and rating. Users can access comprehensive details, including the title, release year, cast, writers, plot, and IMDb rating for any movie.
 
 ## Features
 
